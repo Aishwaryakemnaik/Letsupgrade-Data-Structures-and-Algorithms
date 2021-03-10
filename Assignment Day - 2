@@ -1,0 +1,7 @@
+Question 1
+Find the time complexity of the following Pseudo Code
+for( i = 1 ; i <= n ; i = i*2)
+for( j = 1 ; j <= i ; j++)
+print(“Hello”)
+
+the time complexity - Linear O (n)
